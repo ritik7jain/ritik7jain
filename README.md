@@ -1,6 +1,6 @@
 ## Hey 👋🏻, I'm Ritik Jain
 
-<a href="https://twitter.com/ritik1234">
+<a href="https://twitter.com/ritikjain1234">
   <img align="left" alt="Ritik Jain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ritik7jain/">
