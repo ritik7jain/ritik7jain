@@ -15,6 +15,8 @@
 
 <br>
 <br>
+
+
 Hi, I'm Ritik Jain, a Android Developer and Competitive Programmer 🚀 from India, Beside's programming, I enjoy to develop Machine Learning models.
 - 🔭 I’m currently working on  **Andriod Development**
 - 💻 Developed the website of **[Smart Earnings](https://www.smartearnings.tech/)**
