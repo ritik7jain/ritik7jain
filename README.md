@@ -36,4 +36,4 @@ Hi, I'm Ritik Jain, a Android Developer and Competitive Programmer 🚀 from Ind
 <br>
 
 ![Ritik Jain's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritik7jain&theme=radical&layout=compact) ![Ritik Jain's github stats](https://github-readme-stats.vercel.app/api?username=ritik7jain&show_icons=true&theme=radical&line_height=21)
-[![ritik7jain/Competitive_Programming](https://github-readme-stats.vercel.app/api/pin/?username=ritik7jain&repo=Competitive_Programming&theme=radical)](https://github.com/ritik7jain/Competitive_Programming)  [![harshitbansal373/PHP-CMS](https://github-readme-stats.vercel.app/api/pin/?username=harshitbansal373&repo=PHP-CMS&theme=radical)](https://github.com/harshitbansal373/PHP-CMS)
+[![ritik7jain/Competitive_Programming](https://github-readme-stats.vercel.app/api/pin/?username=ritik7jain&repo=Competitive_Programming&theme=radical)](https://github.com/ritik7jain/Competitive_Programming)  [![ritik7jain/Machine-Learning](https://github-readme-stats.vercel.app/api/pin/?username=ritik7jain&repo=Machine-Learning&theme=radical)](https://github.com/ritik7jain/Machine-Learning)
