@@ -15,3 +15,9 @@
 
 <br>
 <br>
+Hi, I'm Ritik Jain, a Android Developer and Competitive Programmer 🚀 from India, Beside's programming, I enjoy to develop Machine Learning models.
+- 🔭 I’m currently working on  **Andriod Development**
+- 💻 Developed the website of **[Smart Earnings](https://www.smartearnings.tech/)**
+- 💬 Ask me about anything, will try to help.
+- 😐 Want to help in Data Structure and Algo.
+- 📫 How to reach me: **jritik324@gmail.com**
