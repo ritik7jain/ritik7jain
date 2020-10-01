@@ -34,3 +34,6 @@ Hi, I'm Ritik Jain, a Android Developer and Competitive Programmer 🚀 from Ind
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br>
+
+![Harshit Bansal's TOp Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitbansal373&theme=radical&layout=compact) ![Harshit Bansal's github stats](https://github-readme-stats.vercel.app/api?username=harshitbansal373&show_icons=true&theme=radical&line_height=21)
+[![harshitbansal373/python](https://github-readme-stats.vercel.app/api/pin/?username=harshitbansal373&repo=python&theme=radical)](https://github.com/harshitbansal373/python)  [![harshitbansal373/PHP-CMS](https://github-readme-stats.vercel.app/api/pin/?username=harshitbansal373&repo=PHP-CMS&theme=radical)](https://github.com/harshitbansal373/PHP-CMS)
